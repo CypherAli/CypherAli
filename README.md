@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">TRỊNH HOÀNG | CypherAli</h1>
+  <h1 align="center">TRỊNH HOÀNG | Alicia</h1>
   <p align="center">
     <code>Software Engineer</code> • <code>Web3 Architect</code> • <code>System Optimizer</code>
   </p>
@@ -38,19 +38,22 @@ Crafting robust backend architectures and visually striking, clean interfaces. M
 
 <br>
 
+### 🐍 SYSTEM ACTIVITY TRACKER
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br>
+
 <div align="center">
   <p><i>"Complexity is the enemy of execution."</i></p>
   
   <a href="mailto:trinhviethoangawm@gmail.com">
     <img src="https://img.shields.io/badge/Contact-trinhviethoangawm@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=7aa2f7" alt="Email" />
   </a>
-</div>
-### 🐍 System Activity Tracker
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
