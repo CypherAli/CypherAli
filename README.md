@@ -1,54 +1,56 @@
 <div align="center">
-  
-  <img src="[LINK_VIDEO_HOẶC_GIF_CỦA_BẠN_Ở_ĐÂY]" width="100%" alt="Samurai Banner" style="border-radius: 10px;">
-
-  <br/>
-  <br/>
-
-  <h1>Hi there, I'm Trịnh Việt Hoàng (CypherAli) 🗡️</h1>
-  <p><em>Single Point of Failure | Software Engineer | Web3 & High-Performance Systems</em></p>
+  <h1 align="center">TRỊNH HOÀNG | CypherAli</h1>
+  <p align="center">
+    <code>Software Engineer</code> • <code>Web3 Architect</code> • <code>System Optimizer</code>
+  </p>
 
   <a href="https://github.com/CypherAli">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C0C0C0&center=true&vCenter=true&width=800&lines=Architecting+Web3+%26+dApps;Building+High-Performance+Backends+(Go%2C+Rust);Crafting+Neo-Luxury+Web+Experiences;Exploring+Non-blocking+I%2FO+%26+State+Machines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Building+ArtCurve.fun;Architecting+Neo-Luxury+Web3+Experiences;Forging+High-Concurrency+Backends;Deep-diving+into+Node.js+Event+Loop;Exploring+Dependency+Injection+in+Go+%26+Rust" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### ⚡ The Architecture Behind The Dev
+### ◾ EXECUTIVE SUMMARY
 
-Welcome to my digital forge. I specialize in crafting robust backend architectures and visually striking, clean interfaces. When I'm not optimizing state machines or deep-diving into the Node.js event loop, I'm likely refining my Linux setup or analyzing tactical mechanics in complex games.
+Crafting robust backend architectures and visually striking, clean interfaces. My philosophy revolves around **"Neo-Luxury"** design aesthetics combined with high-performance, non-blocking underlying systems. 
 
-- 🔭 **Currently building:** **ArtCurve.fun** (Web3 Art Trading Platform) & exploring proactive AI agents with **FraudGuard-AI**.
-- 🌱 **Mastering:** `Go`, `Rust`, `NestJS`, `Next.js` and advanced Dependency Injection patterns.
-- 🎯 **Focus:** Smart Contract Security, Bonding Curves, and Neo-Luxury UI/UX (Three.js/GSAP).
-- 💬 **Ask me about:** High-performance APIs, Linux distros (Ubuntu/Fedora), or Epic Seven meta.
-- 📫 **Reach me at:** [trinhviethoangawm@gmail.com](mailto:trinhviethoangawm@gmail.com)
+- 🚀 **Mission:** Building **ArtCurve.fun** - A Web3 Art Trading Platform leveraging custom bonding curves.
+- ⚡ **Core Focus:** High-concurrency systems, State Machines, Smart Contract Logic.
+- 🛠️ **Environment:** Linux (Ubuntu/Fedora) • Docker • Dedicated to writing clean, maintainable code.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### ◾ TECH ARSENAL
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,nodejs,nestjs,nextjs,react,linux,ubuntu,docker,postgres,solidity,threejs&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,rust,nodejs,nestjs,nextjs,react,ts,solidity,postgres,docker,linux,ubuntu&theme=dark&perline=12" alt="Tech Stack" />
 </div>
 
-<br/>
+<br>
 
-### 📊 GitHub Analytics
+### ◾ SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CypherAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7aa2f7&title_color=a9b1d6&text_color=c0caf5" alt="CypherAli's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CypherAli&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5" alt="CypherAli's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CypherAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" width="49%" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a9b1d6&text_color=c0caf5" alt="Top Langs" width="60%" />
+  <p><i>"Complexity is the enemy of execution."</i></p>
+  
+  <a href="mailto:trinhviethoangawm@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-trinhviethoangawm@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=7aa2f7" alt="Email" />
+  </a>
 </div>
+### 🐍 System Activity Tracker
 
----
 <div align="center">
-  <em>"Complexity is the enemy of execution."</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
