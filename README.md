@@ -1,112 +1,140 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=TRỊNH%20HOÀNG&fontColor=e2c27d&fontSize=65&fontAlignY=40&animation=twinkling&desc=◈%20CypherAli%20◈%20Alicia%20◈%20Neo-Luxury%20Engineer&descFontColor=a9b1d6&descSize=17&descAlignY=62" width="100%" />
-
 <div align="center">
 
-<a href="https://github.com/CypherAli">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=2800&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+ArtCurve.fun+—+Web3+Art+Trading+Platform;High-Concurrency+Go+%2B+Rust+%2B+Node.js+Backends;Smart+Contract+Architect+%7C+State+Machine+Engineer;%22Complexity+is+the+enemy+of+execution.%22" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/trinhviethoangawm%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=e2c27d)](mailto:trinhviethoangawm@gmail.com)
-[![GitHub](https://img.shields.io/badge/CypherAli-0D1117?style=flat-square&logo=github&logoColor=e2c27d)](https://github.com/CypherAli)
-[![Profile Views](https://komarev.com/ghpvc/?username=CypherAli&color=7aa2f7&style=flat-square&label=VISITORS)](https://github.com/CypherAli)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=14,20,27&height=300&section=header&text=TRỊNH%20HOÀNG&fontColor=fff&fontSize=70&fontAlignY=55&animation=twinkling&stroke=C084FC&strokeWidth=2&desc=◈%20CypherAli%20◈%20Alicia%20◈%20システムエンジニア&descFontColor=C084FC&descSize=18&descAlignY=75" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=750&lines=『+Building+ArtCurve.fun+—+Web3+Art+Trading+Platform+』;『+High-Concurrency+Go+%2B+Rust+%2B+Node.js+』;『+Smart+Contract+Architect+%7C+State+Machine+Engineer+』;『+%22コードは芸術だ。システムはキャンバスだ。%22+』)](https://github.com/CypherAli)
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        EXECUTIVE SUMMARY                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+[![Gmail](https://img.shields.io/badge/✉_Email-C084FC?style=flat-square&logoColor=white)](mailto:trinhviethoangawm@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/CypherAli?style=flat-square&color=C084FC&labelColor=0D0D1A&label=フォロワー)](https://github.com/CypherAli)
+[![Profile Views](https://komarev.com/ghpvc/?username=CypherAli&color=C084FC&style=flat-square&label=訪問者)](https://github.com/CypherAli)
 
-> Crafting robust backend architectures and visually striking, clean interfaces.
-> My philosophy revolves around **"Neo-Luxury"** design aesthetics combined with
-> high-performance, non-blocking underlying systems.
+</div>
 
-| | |
-|:---|:---|
-| 🚀 **Mission** | Building **ArtCurve.fun** — Web3 Art Trading via custom bonding curves |
-| ⚡ **Core Focus** | High-concurrency systems · State Machines · Smart Contract logic |
-| 🛠 **Environment** | Linux (Ubuntu/Fedora) · Docker · Clean, maintainable code |
-| 📍 **Location** | Việt Nam |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+# profile.yaml
+name: Trịnh Hoàng
+alias: [ CypherAli, Alicia ]
+role: Software Engineer
+location: Việt Nam 🇻🇳
+
+philosophy: "Neo-Luxury"
+aesthetic:  Dark · Minimal · Precise
+
+currently_building:
+  - ArtCurve.fun       # Web3 Art DEX
+  - Custom AMM curves  # Bonding curve engine
+  - High-perf backends # Go + Rust
+
+interests:
+  - High-concurrency systems
+  - State machine design
+  - Smart contract logic
+  - Clean code architecture
+```
+
+</td>
+<td width="50%" valign="top">
+
+```javascript
+// about.js
+const Alicia = {
+  stack: {
+    backend:   ["Go", "Rust", "Node.js"],
+    frontend:  ["React", "Next.js", "TypeScript"],
+    web3:      ["Solidity", "EVM", "DeFi"],
+    infra:     ["Docker", "PostgreSQL", "Redis"],
+    os:        "Linux (Ubuntu / Fedora)"
+  },
+
+  currentFocus: [
+    "ArtCurve bonding curve engine",
+    "Go concurrency patterns",
+    "ZK-proof research"
+  ],
+
+  quote: "複雑さは実行の敵だ",
+  //     "Complexity is the enemy of execution"
+}
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                          TECH ARSENAL                               ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 <div align="center">
+
+### `⚔ TECH ARSENAL ⚔`
 
 <img src="https://skillicons.dev/icons?i=go,rust,nodejs,nestjs,nextjs,react,ts,solidity,postgres,redis,docker,linux&theme=dark&perline=12" />
 
 <br/><br/>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        SYSTEM METRICS                               ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CypherAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e2c27d&icon_color=7aa2f7&text_color=c0caf5&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e2c27d&text_color=c0caf5&langs_count=8" width="49%" />
+### `📊 SYSTEM METRICS`
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CypherAli&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=C084FC&icon_color=F471B5&text_color=e2e8f0&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAli&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=C084FC&text_color=e2e8f0&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CypherAli&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=e2c27d&fire=e2c27d&currStreakLabel=e2c27d" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CypherAli&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=C084FC&fire=F471B5&currStreakLabel=C084FC&sideLabels=C084FC&dates=e2e8f0" width="60%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CypherAli&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=CypherAli&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║              LIVE CHESS — PLAY AGAINST THE WORLD                    ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+### `♟ LIVE CHESS — 世界との対局`
+
+<sub>誰でも参加できます · Anyone can play · Bất kỳ ai cũng có thể chơi</sub>
+
+</div>
 
 <!-- CHESS-START -->
 <div align="center">
-
-### ♟ LIVE CHESS — Play Against the World
 
 ▸ Turn: **⬜ White** — Waiting for the first move!
 
@@ -123,58 +151,59 @@
 | **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
 | **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 
-<sub>**[➤ Make your move in Issue #1](../../issues/1)** — comment with e.g. `e2e4`, `Nf3`, `O-O`</sub>
+**[➤ Make your move in Issue #1](../../issues/1)**
+
+<sub>Comment with your move · e.g. `e2e4` · `Nf3` · `O-O`</sub>
 
 </div>
 <!-- CHESS-END -->
 
-<br/>
-
 <details>
-<summary><b>▸ How to play chess on this profile</b></summary>
+<summary align="center"><b>▸ ルールの説明 / How to play</b></summary>
 <br/>
 
-1. **Go to [Issue #1](../../issues/1)** (or create it if it doesn't exist)
-2. **Comment your move** using standard chess notation:
-   - UCI format: `e2e4`, `g1f3`, `e1g1` (castling)
-   - SAN format: `e4`, `Nf3`, `O-O`, `O-O-O`, `exd5`
-3. A **GitHub Action will automatically** update the board within seconds
-4. Anyone can play — you're playing as the current side's turn
-
-> Type `reset` in a comment to start a new game.
+1. **[Issue #1](../../issues/1)** を開く — Open Issue #1
+2. コメントで手を書く — Comment your move:
+   - `e2e4`, `d2d4`, `g1f3` — UCI format
+   - `e4`, `Nf3`, `O-O`, `O-O-O` — SAN format
+3. GitHub Actions が自動的にボードを更新する
+4. `reset` とコメントすると新しいゲームが始まる
 
 </details>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                      CONTRIBUTION MATRIX                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
+
+### `🐍 CONTRIBUTION MATRIX`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="snake" src="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherAli&theme=tokyo-night&bg_color=0D1117&color=e2c27d&line=7aa2f7&point=e2c27d&hide_border=true&area=true&area_color=7aa2f7" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherAli&bg_color=0D0D1A&color=C084FC&line=F471B5&point=ffffff&area=true&area_color=C084FC&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,27&height=130&section=footer&text=&animation=twinkling&stroke=C084FC&strokeWidth=1" width="100%"/>
 
 <div align="center">
-  <sub><i>"The code is the art. The system is the canvas."</i></sub>
+<sub>
+
+```
+「 コードは芸術だ。システムはキャンバスだ。 」
+  "The code is the art. The system is the canvas."
+```
+
+</sub>
 </div>
