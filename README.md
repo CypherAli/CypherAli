@@ -1,20 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0A0F,50:1a0533,100:0A0A0F&height=200&section=header&text=TRỊNH%20HOÀNG&fontColor=A855F7&fontSize=62&fontAlignY=65&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Web3%20Architect%20%E2%80%A2%20System%20Optimizer&descFontColor=9ca3af&descSize=15&descAlignY=85" width="100%"/>
+<div align="center">
+  <img src="banner.svg" width="100%" alt="TRỊNH HOÀNG — CypherAli"/>
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=Building+ArtCurve.fun+—+Web3+Art+Trading+Platform;High-Concurrency+Go+%2B+Rust+%2B+Node.js+Backends;Smart+Contract+Architect+%7C+State+Machine+Engineer;%22Complexity+is+the+enemy+of+execution.%22)](https://github.com/CypherAli)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=720&lines=Building+ArtCurve.fun+—+Web3+Art+Trading+Platform;High-Concurrency+Go+%2B+Rust+%2B+Node.js+Backends;Smart+Contract+Architect+%7C+State+Machine+Engineer;%22Complexity+is+the+enemy+of+execution.%22)](https://github.com/CypherAli)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-trinhviethoangawm-A855F7?style=flat-square&logo=gmail&logoColor=white&labelColor=0A0A0F)](mailto:trinhviethoangawm@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-CypherAli-A855F7?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0F)](https://github.com/CypherAli)
+[![Email](https://img.shields.io/badge/Gmail-trinhviethoangawm%40gmail.com-A855F7?style=flat-square&logo=gmail&logoColor=white&labelColor=0D0D1A)](mailto:trinhviethoangawm@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-CypherAli-A855F7?style=flat-square&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/CypherAli)
+&nbsp;
 [![Views](https://komarev.com/ghpvc/?username=CypherAli&color=A855F7&style=flat-square&label=Profile+Views)](https://github.com/CypherAli)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20&height=2&section=header" width="100%"/>
-
 <br/>
+
+---
 
 <table width="100%">
 <tr>
@@ -56,8 +60,8 @@ const CypherAli = {
 
   currentlyLearning: [
     "ZK-proof systems",
-    "Go concurrency deep-dive",
-    "On-chain order books"
+    "Go concurrency patterns",
+    "On-chain order books",
   ],
 
   quote: "The code is the art.",
@@ -68,13 +72,11 @@ const CypherAli = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20&height=2&section=header" width="100%"/>
-
-<br/>
+---
 
 <div align="center">
 
-## TECH ARSENAL
+## ⚡ TECH STACK
 
 <img src="https://skillicons.dev/icons?i=go,rust,nodejs,nestjs,nextjs,react,ts,solidity,postgres,redis,docker,linux&theme=dark&perline=12" />
 
@@ -93,20 +95,18 @@ const CypherAli = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20&height=2&section=header" width="100%"/>
-
-<br/>
+---
 
 <div align="center">
 
-## SYSTEM METRICS
+## 📊 METRICS
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=CypherAli&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A0F&title_color=A855F7&icon_color=EC4899&text_color=e2e8f0&include_all_commits=true&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAli&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0A0F&title_color=A855F7&text_color=e2e8f0&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CypherAli&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0D0D1A&title_color=A855F7&icon_color=EC4899&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAli&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0D0D1A&title_color=A855F7&text_color=e2e8f0&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CypherAli&theme=midnight-purple&hide_border=true&background=0A0A0F&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=A855F7&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CypherAli&hide_border=true&theme=midnight-purple&background=0D0D1A&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=A855F7&dates=9ca3af" width="55%"/>
 
 <br/>
 
@@ -114,24 +114,18 @@ const CypherAli = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20&height=2&section=header" width="100%"/>
-
-<br/>
+---
 
 <div align="center">
 
-## LIVE CHESS — Play Against the World
-
-<sub>Anyone can play · Just drop a move in the issue below</sub>
+## ♟ LIVE CHESS — Play Against the World
 
 </div>
 
 <!-- CHESS-START -->
 <div align="center">
 
-**Turn: ⬜ White** — Waiting for the first move!
-
-> Game just started — be the first to play!
+**Turn: ⬜ White** — Be the first to move!
 
 | ` ` | **a** | **b** | **c** | **d** | **e** | **f** | **g** | **h** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -144,35 +138,28 @@ const CypherAli = {
 | **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
 | **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 
-**[➤ Make your move — Issue #1](../../issues/1)**
+**[➤ Make your move in Issue #1](../../issues/1)**
 
-<sub>Comment with your move · e.g. `e2e4` · `Nf3` · `O-O` · `d7d5`</sub>
+<sub>Comment with `e2e4`, `Nf3`, `O-O` etc. · GitHub Actions updates the board automatically</sub>
 
 </div>
 <!-- CHESS-END -->
 
 <details>
-<summary><b>How to play chess on this profile</b></summary>
-<br/>
+<summary><b>How to play</b></summary>
 
 1. Open **[Issue #1](../../issues/1)**
-2. Comment with your move in standard notation:
-   - UCI: `e2e4`, `g1f3`, `e1g1`
-   - SAN: `e4`, `Nf3`, `O-O`, `O-O-O`, `exd5`
-3. A GitHub Action updates the board automatically
+2. Comment your move — UCI: `e2e4`, `g1f3` or SAN: `e4`, `Nf3`, `O-O`
+3. The board updates automatically via GitHub Actions
 4. Comment `reset` to start a new game
 
 </details>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20&height=2&section=header" width="100%"/>
-
-<br/>
+---
 
 <div align="center">
 
-## CONTRIBUTION MATRIX
+## 🐍 CONTRIBUTION GRAPH
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CypherAli/CypherAli/output/github-contribution-grid-snake-dark.svg">
@@ -182,14 +169,14 @@ const CypherAli = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherAli&bg_color=0A0A0F&color=A855F7&line=EC4899&point=ffffff&area=true&area_color=A855F7&hide_border=true&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherAli&bg_color=0D0D1A&color=A855F7&line=EC4899&point=ffffff&area=true&area_color=A855F7&hide_border=true&radius=6" width="100%"/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0A0F,50:1a0533,100:0A0A0F&height=120&section=footer&fontColor=A855F7&animation=fadeIn&reversal=true" width="100%"/>
+---
 
 <div align="center">
   <sub><i>"The code is the art. The system is the canvas."</i></sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,27&height=80&section=footer" width="100%"/>
 </div>

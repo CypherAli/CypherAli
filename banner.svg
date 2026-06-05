@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060612"/>
+      <stop offset="45%" stop-color="#12062e"/>
+      <stop offset="100%" stop-color="#060612"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#A855F7" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#EC4899" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lineGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dotGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="240" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid dots -->
+  <g opacity="0.08" fill="#A855F7">
+    <circle cx="50" cy="40" r="1.5"/> <circle cx="100" cy="40" r="1.5"/> <circle cx="150" cy="40" r="1.5"/> <circle cx="200" cy="40" r="1.5"/> <circle cx="250" cy="40" r="1.5"/> <circle cx="300" cy="40" r="1.5"/> <circle cx="350" cy="40" r="1.5"/> <circle cx="400" cy="40" r="1.5"/> <circle cx="450" cy="40" r="1.5"/> <circle cx="500" cy="40" r="1.5"/> <circle cx="550" cy="40" r="1.5"/> <circle cx="600" cy="40" r="1.5"/> <circle cx="650" cy="40" r="1.5"/> <circle cx="700" cy="40" r="1.5"/> <circle cx="750" cy="40" r="1.5"/> <circle cx="800" cy="40" r="1.5"/> <circle cx="850" cy="40" r="1.5"/>
+    <circle cx="50" cy="80" r="1.5"/> <circle cx="100" cy="80" r="1.5"/> <circle cx="150" cy="80" r="1.5"/> <circle cx="200" cy="80" r="1.5"/> <circle cx="250" cy="80" r="1.5"/> <circle cx="300" cy="80" r="1.5"/> <circle cx="350" cy="80" r="1.5"/> <circle cx="400" cy="80" r="1.5"/> <circle cx="450" cy="80" r="1.5"/> <circle cx="500" cy="80" r="1.5"/> <circle cx="550" cy="80" r="1.5"/> <circle cx="600" cy="80" r="1.5"/> <circle cx="650" cy="80" r="1.5"/> <circle cx="700" cy="80" r="1.5"/> <circle cx="750" cy="80" r="1.5"/> <circle cx="800" cy="80" r="1.5"/> <circle cx="850" cy="80" r="1.5"/>
+    <circle cx="50" cy="120" r="1.5"/> <circle cx="100" cy="120" r="1.5"/> <circle cx="150" cy="120" r="1.5"/> <circle cx="200" cy="120" r="1.5"/> <circle cx="250" cy="120" r="1.5"/> <circle cx="300" cy="120" r="1.5"/> <circle cx="350" cy="120" r="1.5"/> <circle cx="400" cy="120" r="1.5"/> <circle cx="450" cy="120" r="1.5"/> <circle cx="500" cy="120" r="1.5"/> <circle cx="550" cy="120" r="1.5"/> <circle cx="600" cy="120" r="1.5"/> <circle cx="650" cy="120" r="1.5"/> <circle cx="700" cy="120" r="1.5"/> <circle cx="750" cy="120" r="1.5"/> <circle cx="800" cy="120" r="1.5"/> <circle cx="850" cy="120" r="1.5"/>
+    <circle cx="50" cy="160" r="1.5"/> <circle cx="100" cy="160" r="1.5"/> <circle cx="150" cy="160" r="1.5"/> <circle cx="200" cy="160" r="1.5"/> <circle cx="250" cy="160" r="1.5"/> <circle cx="300" cy="160" r="1.5"/> <circle cx="350" cy="160" r="1.5"/> <circle cx="400" cy="160" r="1.5"/> <circle cx="450" cy="160" r="1.5"/> <circle cx="500" cy="160" r="1.5"/> <circle cx="550" cy="160" r="1.5"/> <circle cx="600" cy="160" r="1.5"/> <circle cx="650" cy="160" r="1.5"/> <circle cx="700" cy="160" r="1.5"/> <circle cx="750" cy="160" r="1.5"/> <circle cx="800" cy="160" r="1.5"/> <circle cx="850" cy="160" r="1.5"/>
+    <circle cx="50" cy="200" r="1.5"/> <circle cx="100" cy="200" r="1.5"/> <circle cx="150" cy="200" r="1.5"/> <circle cx="200" cy="200" r="1.5"/> <circle cx="250" cy="200" r="1.5"/> <circle cx="300" cy="200" r="1.5"/> <circle cx="350" cy="200" r="1.5"/> <circle cx="400" cy="200" r="1.5"/> <circle cx="450" cy="200" r="1.5"/> <circle cx="500" cy="200" r="1.5"/> <circle cx="550" cy="200" r="1.5"/> <circle cx="600" cy="200" r="1.5"/> <circle cx="650" cy="200" r="1.5"/> <circle cx="700" cy="200" r="1.5"/> <circle cx="750" cy="200" r="1.5"/> <circle cx="800" cy="200" r="1.5"/> <circle cx="850" cy="200" r="1.5"/>
+  </g>
+
+  <!-- Diagonal accent lines top-left -->
+  <line x1="-20" y1="160" x2="160" y2="-20" stroke="#A855F7" stroke-width="0.8" opacity="0.25"/>
+  <line x1="20" y1="200" x2="240" y2="-20" stroke="#A855F7" stroke-width="0.5" opacity="0.15"/>
+  <!-- Diagonal accent lines top-right -->
+  <line x1="920" y1="160" x2="740" y2="-20" stroke="#EC4899" stroke-width="0.8" opacity="0.25"/>
+  <line x1="880" y1="200" x2="660" y2="-20" stroke="#EC4899" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- Corner accent squares -->
+  <rect x="20" y="16" width="8" height="8" fill="none" stroke="#A855F7" stroke-width="1.5" opacity="0.7"/>
+  <rect x="872" y="16" width="8" height="8" fill="none" stroke="#EC4899" stroke-width="1.5" opacity="0.7"/>
+  <rect x="20" y="216" width="8" height="8" fill="none" stroke="#EC4899" stroke-width="1.5" opacity="0.7"/>
+  <rect x="872" y="216" width="8" height="8" fill="none" stroke="#A855F7" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Top border line -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)"/>
+
+  <!-- Glowing circle left -->
+  <circle cx="130" cy="120" r="55" fill="#A855F7" opacity="0.06"/>
+  <circle cx="130" cy="120" r="35" fill="#A855F7" opacity="0.05"/>
+  <!-- Glowing circle right -->
+  <circle cx="770" cy="120" r="55" fill="#EC4899" opacity="0.06"/>
+  <circle cx="770" cy="120" r="35" fill="#EC4899" opacity="0.05"/>
+
+  <!-- Side decoration dots -->
+  <circle cx="55" cy="118" r="3" fill="#A855F7" opacity="0.6"/>
+  <circle cx="68" cy="118" r="2" fill="#A855F7" opacity="0.4"/>
+  <circle cx="78" cy="118" r="1.5" fill="#A855F7" opacity="0.25"/>
+
+  <circle cx="845" cy="118" r="3" fill="#EC4899" opacity="0.6"/>
+  <circle cx="832" cy="118" r="2" fill="#EC4899" opacity="0.4"/>
+  <circle cx="822" cy="118" r="1.5" fill="#EC4899" opacity="0.25"/>
+
+  <!-- Horizontal divider lines flanking the name -->
+  <rect x="100" y="104" width="230" height="1" fill="url(#lineGrad2)"/>
+  <rect x="570" y="104" width="230" height="1" fill="url(#lineGrad2)"/>
+
+  <!-- Main name -->
+  <text x="450" y="102" font-family="'Courier New', Courier, monospace" font-size="54" font-weight="bold"
+        fill="#FFFFFF" text-anchor="middle" letter-spacing="6">TRỊNH HOÀNG</text>
+
+  <!-- Alias / handle -->
+  <text x="450" y="130" font-family="'Courier New', Courier, monospace" font-size="13"
+        fill="#A855F7" text-anchor="middle" letter-spacing="5">▸  CYPHERALI  ·  ALICIA  ◂</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="162" font-family="'Courier New', Courier, monospace" font-size="12"
+        fill="#9ca3af" text-anchor="middle" letter-spacing="3">SOFTWARE ENGINEER  ·  WEB3 ARCHITECT  ·  SYSTEM OPTIMIZER</text>
+
+  <!-- Bottom border line -->
+  <rect x="0" y="238" width="900" height="2" fill="url(#lineGrad)"/>
+</svg>
