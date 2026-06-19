@@ -1,7 +1,9 @@
 <div align="center">
   <img src="banner.svg" width="100%" alt="TRỊNH HOÀNG — CypherAli"/>
+<div align="center" style="width: 100%; height: 382px; overflow: hidden; border-radius: 12px; position: relative;">
+  <img src="https://raw.githubusercontent.com/CypherAli/CypherAli/main/images/download%20(19).jpg" 
+       style="position: absolute; top: -14%; left: -28.7%; width: 100%;">
 </div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%3E+Initializing+CypherAli+System...;%3E+Web3+Architect+%7C+State+Machine+Engineer;%3E+Building+ArtCurve.fun+%E2%80%94+Art+Trading+Protocol;%3E+%22Complexity+is+the+enemy+of+execution.%22)](https://github.com/CypherAli)
